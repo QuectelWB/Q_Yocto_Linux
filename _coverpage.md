@@ -1,4 +1,4 @@
-<img width="500px"  src="JJ.jfif">
+<img width="500px"  src="jd.jfif">
 
 # Yocto Linux 学习笔记
 
