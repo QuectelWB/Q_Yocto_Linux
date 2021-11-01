@@ -1,17 +1,13 @@
 - [Introductions](/)
 
-* USB
+* articles
 
-  - [authorized](USB/USB_authorized.md)
+  - [添加新用户](articles/Yocto_add_users.md)
 
-* PCI
 
-  - [PCI driver](PCI/How_to_write_pci_driver.md)
+* peripheral
 
-* 网卡性能优化
+  - [GPIO](peripheral/gpio_01.md)
 
-  - [smp_afinity](Performance/smp_afinity.md)
-  - [RPS_RFS](Performance/RFS_RPS.md)
-  
 
 * [WhoAmI](about.md)
