@@ -72,7 +72,8 @@ SSTATE_DIR：共享的状态缓存文件目录，默认的设置是在构建环�
 	
 	bblayers.conf文件告诉BitBake在构建过程中要使用哪些层。默认情况下，此文件中仅列出的层包括构建系统所需的层。所以，您必须手动添加已创建的所有自定义图层。下图为bblayers.conf的内容：
 
-	# build/conf/bblayers.conf文件发生变化后，变量POKY_BBLAYERS_CONF_VERSION的数字会随着增加。 
+	
+	#build/conf/bblayers.conf文件发生变化后，变量POKY_BBLAYERS_CONF_VERSION的数字会随着增加。 
 
 	POKY_BBLAYERS_CONF_VERSION = "2"
 
