@@ -2,15 +2,7 @@
 
 ----------
 
-()[JJ.jfif]
-
-## Quectel ##
-
-无线通信技术方案供应商。
-
-
-![](https://www.quectel.com/images/about/ban2.png)
-
+![](photos/Loki.png)
 
 
 ## What is Yocto ##
@@ -76,7 +68,9 @@ workflow
 	build an Extensible SDK for applications development
 
 ----------
+
 Links:
+
 <br>
 *[`Official Website`](https://www.quectel.com/ "Official Website")*
 <br>
@@ -86,3 +80,5 @@ Links:
 <br>
 *[`Yocto 文档`](https://docs.yoctoproject.org/ "YoctoProject")*
 <br>
+
+<a href="https://quectelwb.github.io/Q_Yocto_Linux/#/tmp/Hello" target="-blank" titile="ME"><img src="photos/JJ.jfif"></a>
