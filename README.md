@@ -69,16 +69,24 @@ workflow
 
 ----------
 
-Links:
+友情连接Links:
 
 <br>
-*[`Official Website`](https://www.quectel.com/ "Official Website")*
+
+[`Official Website`](https://www.quectel.com/ "Official Website")
+
 <br>
-*[`Forums`](https://Forums.quectel.com/ "Forums")*
+
+[`Forums`](https://Forums.quectel.com/ "Forums")
+
 <br>
-*[`中文论坛`](https://forumschinese.quectel.com/ "中文论坛")*
+
+[`中文论坛`](https://forumschinese.quectel.com/ "中文论坛")
+
 <br>
-*[`Yocto 文档`](https://docs.yoctoproject.org/ "YoctoProject")*
+
+[`Yocto 文档`](https://docs.yoctoproject.org/ "YoctoProject")
+
 <br>
 
 <a href="https://quectelwb.github.io/Q_Yocto_Linux/#/tmp/Hello" target="-blank" titile="ME"><img src="photos/JJ.jfif"></a>
