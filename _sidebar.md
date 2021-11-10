@@ -17,5 +17,6 @@
 
   - [GPIO](peripheral/gpio_01.md)
 
+* [**FAQ**](FAQ.md)
 
 * [**WhoAmI**](about.md)
