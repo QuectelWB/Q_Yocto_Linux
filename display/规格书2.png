@@ -1,0 +1,14 @@
+--2021-11-16 15:21:24--  https://img-blog.csdnimg.cn/20210619141834774.png
+Resolving img-blog.csdnimg.cn (img-blog.csdnimg.cn)... 219.159.87.60, 115.238.137.186, 115.238.137.185
+Connecting to img-blog.csdnimg.cn (img-blog.csdnimg.cn)|219.159.87.60|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 154249 (151K) [image/png]
+Saving to: ‘20210619141834774.png’
+
+     0K .......... .......... .......... .......... .......... 33% 1.37M 0s
+    50K .......... .......... .......... .......... .......... 66% 1.91M 0s
+   100K .......... .......... .......... .......... .......... 99% 4.83M 0s
+   150K                                                       100% 12.1G=0.07s
+
+2021-11-16 15:21:24 (2.06 MB/s) - ‘20210619141834774.png’ saved [154249/154249]
+

@@ -16,6 +16,7 @@
 * Peripheral
 
   - [GPIO](peripheral/gpio_01.md)
+  - [UVC](peripheral/uvc.md)
 
 * [**FAQ**](FAQ.md)
 
