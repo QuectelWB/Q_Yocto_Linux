@@ -73,20 +73,23 @@ workflow
 
 <br>
 
-[`Official Website`](https://www.quectel.com/ "Official Website")
+[`源码在线阅读`](https://elixir.bootlin.com/linux/latest/source "Kernel Source")
+
+<br>
+[`源码在线阅读 2`](https://lxr.missinglinkelectronics.com/+trees "linux")
+<br>
+
+[`低版本的安卓源码`](http://androidxref.com/ "androidxref")
 
 <br>
 
-[`Forums`](https://Forums.quectel.com/ "Forums")
+[`aospxref 高版本Android源码`](http://aospxref.com/ "aospxref")
 
 <br>
 
-[`中文论坛`](https://forumschinese.quectel.com/ "中文论坛")
+[`高通Linux Kernel`](https://android.googlesource.com/kernel/msm/+/android-7.1.0_r0.2 "高通的内核源码")
 
 <br>
-
-[`Yocto 文档`](https://docs.yoctoproject.org/ "YoctoProject")
-
-<br>
+[ASCII表](https://quectelwb.github.io/Q_Yocto_Linux/#/tmp/ASCII)
 
 <a href="https://quectelwb.github.io/Q_Yocto_Linux/#/tmp/ASCII" target="-blank" titile="ME"><img src="photos/JJ.jfif"></a>
