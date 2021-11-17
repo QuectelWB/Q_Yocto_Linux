@@ -133,6 +133,28 @@
 [include/uapi/linux/input-event-codes.h](https://elixir.bootlin.com/linux/latest/source/include/uapi/linux/input-event-codes.h#)
 
 
+evtest
+	
+	root@v-pc:/home/v/udev/input# evtest
+	No device specified, trying to scan all of /dev/input/event*
+	Available devices:
+	/dev/input/event0:      Lid Switch
+	/dev/input/event1:      Sleep Button
+	/dev/input/event2:      Power Button
+	/dev/input/event3:      AT Translated Set 2 keyboard
+	/dev/input/event4:      ETPS/2 Elantech Touchpad
+	/dev/input/event5:      Video Bus
+	/dev/input/event6:      Video Bus
+	/dev/input/event7:      Asus Wireless Radio Control
+	/dev/input/event8:      Asus WMI hotkeys
+	/dev/input/event9:      USB2.0 VGA UVC WebCam: USB2.0 V
+	/dev/input/event10:     HDA Intel HDMI HDMI/DP,pcm=3
+	/dev/input/event11:     HDA Intel HDMI HDMI/DP,pcm=7
+	/dev/input/event12:     HDA Intel HDMI HDMI/DP,pcm=8
+	/dev/input/event13:     HDA Intel HDMI HDMI/DP,pcm=9
+	/dev/input/event14:     HDA Intel HDMI HDMI/DP,pcm=10
+	/dev/input/event15:     HDA Intel PCH Headphone
+
 
 
 
