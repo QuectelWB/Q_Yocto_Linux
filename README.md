@@ -73,6 +73,10 @@ workflow
 
 <br>
 
+[`in tree Linux`](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/ "torvalds Linux")
+
+<br>
+
 [`源码在线阅读`](https://elixir.bootlin.com/linux/latest/source "Kernel Source")
 
 <br>
