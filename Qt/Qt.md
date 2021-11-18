@@ -47,9 +47,14 @@ https://www.kynetics.com/docs/2018/Yocto-SDK-Qt/
 
 ## 写测试程序
 
+注意事项：
 
+- add library -> external library
 	
+## 运行程序
 
+	kill quec_launcher
+	运行自己的测试程序
 
 
 

@@ -18,8 +18,8 @@
   - [GPIO](peripheral/gpio_01.md)
   - [UVC](peripheral/uvc.md)
 
-* Qt
-
+* [Qt](Qt/Qt.md)
+  
   - [Qt参考文章1](Qt/Qt5_porting-reference-1.md)
   - [Qt参考文章2](Qt/Qt5_porting-reference-2.md)
 
