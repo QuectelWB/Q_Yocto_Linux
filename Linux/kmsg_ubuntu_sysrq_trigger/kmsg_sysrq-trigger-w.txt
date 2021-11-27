@@ -1,0 +1,17 @@
+ echo w > /proc/sysrq-trigger
+
+==============
+
+<6>[68749.891581] sysrq: Show Blocked State
+<6>[68749.891588]   task                        PC stack   pid father
+<6>[68749.891654] jbd2/sda2-8     D    0   273      2 0x80004000
+<4>[68749.891661] Call Trace:
+<4>[68749.891684]  ? bit_wait_timeout+0xa0/0xa0
+<4>[68749.891696]  io_schedule+0x16/0x40
+<4>[68749.891708]  __wait_on_bit+0x33/0xa0
+<4>[68749.891722]  ? var_wake_function+0x30/0x30
+<4>[68749.891736]  jbd2_journal_commit_transaction+0x1054/0x18c0
+<4>[68749.891752]  kjournald2+0xb6/0x280
+<4>[68749.891764]  kthread+0x104/0x140
+<4>[68749.891775]  ? kthread_park+0x90/0x90
+<6>[70526.791738] sysrq: Show Blocked State
