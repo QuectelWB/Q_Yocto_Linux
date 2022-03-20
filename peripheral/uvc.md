@@ -28,4 +28,23 @@
 	total 0
 	lrwxrwxrwx 1 root root 0 Nov 16 10:05 video0 -> ../../devices/pci0000:00/0000:00:14.0/usb1/1-5/1-5:1.0/video4linux/video0
 	
+查看摄像头参数
+	
+	v4l2-ctl -d  /dev/video0 --all
 
+	
+## 打开相机常用的软件
+
+camorama 和 cheese
+
+	camorama -d /dev/videao0
+
+## cmdline 操作
+
+
+
+## More
+
+OpenCV 课程
+
+http://www.1zlab.com/wiki/python-opencv-tutorial/

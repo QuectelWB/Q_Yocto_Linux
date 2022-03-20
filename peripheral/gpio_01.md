@@ -37,3 +37,8 @@ pinctrl系统
 	GPIO_31	GPIO_31	LDO5_1V8 "Flash mode control for Flash LED General GPIO by default"	GP_CLK0	"Can be reassigned as GPIO"
 
 
+## ss  
+
+
+
+

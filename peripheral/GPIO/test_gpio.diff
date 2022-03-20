@@ -1,0 +1,34 @@
+diff --git a/kernel/msm-3.18/arch/arm/boot/dts/qcom/msm8909-mtp.dtsi b/kernel/msm-3.18/arch/arm/boot/dts/qcom/msm8909-mtp.dtsi
+index f354e22..99f7da3 100755
+--- a/kernel/msm-3.18/arch/arm/boot/dts/qcom/msm8909-mtp.dtsi
++++ b/kernel/msm-3.18/arch/arm/boot/dts/qcom/msm8909-mtp.dtsi
+@@ -333,6 +333,20 @@
+ 		};
+ 	};
+ 
++	test_gpio {
++            compatible = "test_gpio";
++            test_gpio,gpio0 = <&msm_gpio 0 0>;
++            qcom,num-grp-pins = <1>;
++            qcom,pin-func = <0>;
++            pinctrl-names = "test_gpio";
++            pinctrl-0 = <&sim8905_act>;
++            label = "test_gpio";
++	sim8905_act: active {
++                drive-strength = <2>;
++                bias-disable = <0>;    
++	     };
++	};
++
+ 	audio_codec_mtp: sound {
+ 		compatible = "qcom,msm8952-audio-codec";
+ 		qcom,model = "msm8909-snd-card";
+diff --git a/kernel/msm-3.18/drivers/misc/Makefile b/kernel/msm-3.18/drivers/misc/Makefile
+index d082122..65dae8a 100644
+--- a/kernel/msm-3.18/drivers/misc/Makefile
++++ b/kernel/msm-3.18/drivers/misc/Makefile
+@@ -73,3 +73,4 @@ obj-$(CONFIG_MEMORY_STATE_TIME) += memory_state_time.o
+ obj-$(CONFIG_APDS9930)		+= apds993x.o
+ obj-$(CONFIG_UID_SYS_STATS) += uid_sys_stats.o
+ obj-$(CONFIG_MEMORY_STATE_TIME) += memory_state_time.o
++obj-y += test_gpio.o
