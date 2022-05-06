@@ -24,6 +24,7 @@
 
 * Linux
 
+  - [todo](Linux/todo.md)
   - [boot](Linux/boot.md)
   - [dts](Linux/devicetree/device_tree.md)
   - [签名](Linux/module_sign.md)
@@ -36,11 +37,22 @@
   - [todo7](Linux/task-todo-07.md)
   - [todo8](Linux/task-todo-08.md)
 
+
+* display
+
+  - [todo](display/todo.md)
+  - [文件节点](display/sdm660.md)
+  - [msm8909_lk](display/msm8909_lk.md)
+  - [msm8909_kernel](display/msm8909_kernel.md)
+  - [/dev/fb0 test](display/userspace_program.md)
+
 * 充电
+  - [todo](Charging/todo.md)
   - [Charging](Charging/pm8909_linear_charger.md)
 
 * Thermal
 
+  - [todo](thermal_ongoing/todo.md)
   - [getTemp](thermal_ongoing/getTemp.md)
   - [Thermal](thermal_ongoing/Thermal.md)
   - [thermal_driver](thermal_ongoing/thermal_driver_k1.md)
